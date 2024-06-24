@@ -5,5 +5,5 @@ This Project is MockApi user details are fetching using AXIOS and help of CRUD f
 Currently, two official plugins are available:
 
 - <b>Created using : </b>React.jS,Bootstrap,MockApi.
-- <b><i>Deploy url link</i></b><br/>
+  <b><i>Deploy url link</i></b><br/>
 https://react-axios-api-call.netlify.app/
